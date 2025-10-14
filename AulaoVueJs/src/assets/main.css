@@ -4,8 +4,15 @@ body {
 }
 
 #app {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 2rem;
     font-weight: normal;
+}
+
+header {
+    font-size: 2em;
+    color: white;
+    background-color: cyan;
+    margin-bottom: 20px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
 }
