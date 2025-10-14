@@ -13,7 +13,7 @@
     div {
         background-color: violet;
         padding: 10px;
-        margin: 10px 0;
+        margin: 30px;
         border-radius: 20px;
         box-shadow: 0 5px 5px #666;
         text-align: center;
