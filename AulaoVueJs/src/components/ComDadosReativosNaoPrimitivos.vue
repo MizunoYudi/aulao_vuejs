@@ -26,9 +26,11 @@ import { reactive } from 'vue';
 // Utilizando a options api
     export default{
         data:function(){
-            return {
-                nome: "Pedro",
-                idade: 12
+            return  {
+                pessoa:{
+                    nome: "Pedro",
+                    idade: 12
+                }
             }
         },
         methods:{
